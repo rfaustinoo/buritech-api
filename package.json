@@ -1,0 +1,19 @@
+{
+    "name": "api-crud-buri",
+    "version": "1.0.0",
+    "description": "CRUD com Node.Js + MongoDb + Express.js",
+    "main": "server.js",
+    "scripts": {
+        "dev": "nodemon"
+    },
+    "dependencies": {
+        "body-parser": "~1.18.1",
+        "express": "~4.15.4",
+        "mongodb-autoincrement": "^1.0.1",
+        "mongoose": "~4.11.12",
+        "request": "~2.82.0"
+    },
+    "devDependencies": {
+        "nodemon": "^1.12.1"
+    }
+}
