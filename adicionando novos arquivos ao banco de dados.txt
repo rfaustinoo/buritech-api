@@ -1,0 +1,19 @@
+use api-crud-buri
+db.createCollection("tarefas")
+db.tarefas.insert([
+	{
+	usuario: "Roberto Faustino",
+	procedimento: "Criação de API-REST",
+	tempo: "48 horas"
+	},
+	{
+	usuario: "Marcio Palheta",
+	procedimento: "Criação de Layout",
+	tempo: "1h 25min"
+	},
+	{
+	usuario: "Ayub Gomes",
+	procedimento: "Modificação de front-end",
+	tempo: "20 min"
+	},	
+]);
