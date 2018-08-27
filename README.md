@@ -1,7 +1,7 @@
 # Buritech
 # API Rest com NodeJS e Express junto de MongoDB
 
-    O projeto conta com a criação de uma API REST, um conjunto de rotinas e padrões estabelecidos e documentados por uma        aplicação. 
+    O projeto conta com a criação de uma API REST, um conjunto de rotinas e padrões estabelecidos e documentados por uma aplicação. 
     As rotinas criadas fazem parte de um CRUD (Create, Read, Update e Delete), que são quatro operações básicas utilizadas em base de dados relacionais ou ulizadores para criação, consulta, atualização e destruição de dados.
 
 # Recursos utilizados no desenvolvimento:
