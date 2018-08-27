@@ -6,6 +6,20 @@
     As rotinas criadas fazem parte de um CRUD (Create, Read, Update e Delete), que são quatro operações 
     básicas utilizadas em base de dados relacionais ou ulizadores para criação, consulta, atualização e 
     destruição de dados.
+    
+    Abaixo vamos ver um pouco sobre os softwares usados apra criação do projeto.
+    
+    "NodeJS": é um interpretador de código JavaScript com o código aberto, focado em migrar o Javascript 
+    do lado do cliente para servidores. Seu objetivo é ajudar programadores na criação de aplicações de 
+    alta escalabilidade (como um servidor web[1]), com códigos capazes de manipular dezenas de milhares 
+    de conexões simultâneas, numa única máquina física.
+    
+    "Express": é uma estrutura de aplicativo da web para o Node.js. Ele é projetado para construir aplicativos 
+    da Web e APIs. Ele foi chamado de framework de servidores padrão de fato para o NodeJS.
+    
+    "MongoDB": MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e 
+    multiplataforma. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos 
+    semelhantes a JSON com esquemas. 
 
 # Recursos utilizados no desenvolvimento:
     Node.Js
