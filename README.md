@@ -56,6 +56,6 @@ Foi usando o POSTMAN para realizar o teste.
 # Explicando outros métodos
 
     O Método (Put e Delete), será necessário colocar o ID do usuário adicionado como no exemplo:
-        http://localhost:8000/api/paciente/5c851s587q412s65afg
+        http://localhost:8000/api/tarefas/5c851s587q412s65afg
         
     Esse número "5c851s587q412s65afg" é o id aleatório do usuário adicionado que será guardado no banco de dados.
