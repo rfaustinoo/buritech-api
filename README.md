@@ -67,7 +67,7 @@ Foi usando o POSTMAN para realizar o teste.
  As key's a serem usadas no postman serão:
   procedimento / usuario / tempo
  
- Os valores podem ser colocados de acordo com as suas key's.
+ Os valores devem ser colocados de acordo com as suas key's.
       
  Será adicionado um arquivo em .txt para ser baixado para ser adicionando dados ao banco de dados caso queria adicionar.
  
