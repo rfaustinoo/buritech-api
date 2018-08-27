@@ -1,4 +1,4 @@
-# buritech-api
+# Buritech
 # API-Rest-com-NodeJS-Express-MongoDB
 
 # Recursos utilizados no desenvolvimento:
@@ -38,15 +38,18 @@
 Após isso a máquina está pronta para realizar os procedimentos.
 Foi usando o POSTMAN para realizar o teste.
 
-# Exemplo de como adicionar um paciente novo
+# Exemplo de como adicionar um novo item ao banco
 
  As key's a serem usadas no postman serão:
   procedimento / usuario / tempo
+ 
+ Os valores podem ser colocados de acordo com as suas key's.
       
  Será adicionado um arquivo em .txt para ser baixado para ser adicionando dados ao banco de dados caso queria adicionar.
  
         No postman o arquivo deve está em Body como x-www-form-unlencoded
-#Explicando outros métodos
+        
+# Explicando outros métodos
 
     O Método (Put e Delete), será necessário colocar o ID do usuário adicionado como no exemplo:
         http://localhost:8000/api/paciente/5c851s587q412s65afg
