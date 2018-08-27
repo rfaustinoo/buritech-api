@@ -1,5 +1,5 @@
 # Buritech
-# API-Rest-com-NodeJS-Express-MongoDB
+# API Rest com NodeJS e Express junto de MongoDB
 
 # Recursos utilizados no desenvolvimento:
     Node.Js
