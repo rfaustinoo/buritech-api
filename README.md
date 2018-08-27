@@ -25,10 +25,14 @@
         Antes de realizar qualquer operação tenha todos os recursos instalados na sua máquina.
         Abra o visual Studio Code.
         No proprio Visual Studio Code, abrir o terminal e realizar os seguintes comandos:
-                npm install
+                npm install *Instalação das dependências do projeto*
                 
         Depois, você precisará abrir um outro terminal na sua máquina e iniciar o MongoDb, no CMD digite o seguinte comando:
                 mongod
+        
+        Caso queria adicionar arquivos pelo .txt que está disponível para download:
+            abra um outro comando CMD e digite "mongo" ao abrir basta copiar os arquivos que estão no .txt e colocar no CMD e
+            apertar enter para ele dar entrada na collection.
                 
         logo após intalar todas as dependências e abrir o mongo, realizar o próximo comando no "VS code":
                 npm run dev
